@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "334000039676",
+    "project_id": "farm-desk",
+    "storage_bucket": "farm-desk.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334000039676:android:9bad7df056835059e1d979",
+        "android_client_info": {
+          "package_name": "com.tower.buildmaster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFazshNGYvY5yAX0vjo-XsShxwTELQeO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
